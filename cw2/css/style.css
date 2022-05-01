@@ -1,0 +1,628 @@
+/*this is for the background colour on all of the pages*/
+body{
+  background-color: lightgrey
+}
+
+/*this is the colour of the title on all of the pages*/
+.title{
+  color: white
+}
+
+/*this is for the logo on all of the pages- height and width*/
+.logo{
+  height: 250px
+}
+.logo{
+  width:250px
+}
+/*this is for the positioning - floating to the left hand side of the page*/
+.logo{
+  float: left;
+}
+
+/*this is for the colour for about1 text*/
+.about1{
+  color: white
+}
+
+.slogan{
+  color: white
+}
+
+/*this is for the h4 footer text colour*/
+h4{
+  color: white
+}
+
+/*this is for the height and width of the aquarium picture*/
+.aquarium{
+  width: 200px
+}
+.aquarium{
+  height: 200px
+}
+/*this is for the transition, jbox effect on the aquarium picture*/
+.aquarium:hover{
+  width: 100px;
+  height: 100px;
+  transition: width 1s, height 1s, transform 1s;
+}
+
+/*this is for chagning all of the hover suggestions text to white*/
+.hovers{
+  color: white
+}
+
+/*this is to change the size of the daisy picture, height and width*/
+.daisy{
+  width: 200px
+}
+.daisy{
+  height:200px
+}
+
+/*this is to change the width and height of the sun gif*/
+.sungif{
+  width: 200px
+}
+.sungif{
+  height:200px
+}
+/*this is to position the sun gif to left side of the page*/
+.sungif{
+  float: left;
+}
+/*this is to add jbox onto the sun gif, transition*/
+.sungif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is to change the text colour on the sun text*/
+.suninfo{
+  color: white
+}
+/*this is to change the positioning and padding around the sun text*/
+.suninfo{
+  float: right;
+  padding: 80px
+}
+
+/*this is to change the description 1 text colour*/
+.description1{
+  color: white
+}
+
+/*this is to change the width and height of the bike ride image*/
+.bikeride{
+  height:150px
+}
+.bikeride{
+  width:150px
+}
+
+/*this is to change the height and width of the ladybird image*/
+.ladybug{
+  width:300px
+}
+.ladybug{
+  height:300px
+}
+/*this is to change the positioning of the ladybird image to the right of the page*/
+.ladybug{
+  float: right;
+}
+
+/*this is to change the bucket gif height and width*/
+.bucketgif{
+  height:150px
+}
+.bucketgif{
+  width: 150px
+}
+/*this is to add a transition of jbox onto the gif*/
+.bucketgif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is to change the gifs height and width*/
+.cauldrongif{
+  height: 200px
+}
+.cauldrongif{
+  width: 200px
+}
+/*this is to add a transition onto the gif*/
+.cauldrongif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is to change the gifs height and width size*/
+.candycanegif{
+  height: 150px
+}
+.candycanegif{
+  width: 150px
+}
+/*this is to add a transition onto the gif*/
+.candycanegif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is to change the height and width of the flower gif*/
+.flowergif{
+  height:150px
+}
+.flowergif{
+  width: 150px
+}
+/*this is to add a transition onto the gif*/
+.flowergif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is to change the height and width of the rain gif*/
+.raingif{
+  height:200px
+}
+.raingif{
+  width:200px
+}
+/*this is adding a transition onto the rain gif*/
+.raingif:hover{
+  width: 500px;
+  height: 500px;
+  transform: rotate(720deg)
+}
+
+/*this is changing the colour of the ladybird text*/
+.ladybird{
+  color: white
+}
+/*this is changing the positioning of the ladybird text*/
+.ladybird{
+  float: left;
+  padding: 15px
+}
+
+/*this is changing the colour of the seabirds text*/
+.seabirds{
+  color: white
+}
+/*this is changing the positioning of the seabirds text*/
+.seabirds{
+float: left;
+padding: 15px
+}
+
+/*this is changing the size of the seabirds video, height and width*/
+.seabirdsvid{
+height: 500px
+}
+.seabirdsvid{
+  width: 500px
+}
+/*this is changing the positioning of the seabirds video*/
+.seabirdsvid{
+  float: right;
+}
+
+/*this is changing the size of the bowling picture, height and width*/
+.bowlpic{
+  height: 400px
+}
+.bowlpic{
+  width: 400px
+}
+
+/*this is to change the height and width of the daisy picture*/
+.daisy{
+  height: 400px
+}
+.daisy{
+  width: 400px
+}
+
+/*this is to change the height and width of the late night walk picture*/
+.lnbw{
+  width: 300px
+}
+.lnbw{
+  height: 300px
+}
+
+/*this is to change the height and width of the swan image*/
+.swan{
+  height: 300px
+}
+.swan{
+  width:300px
+}
+
+/*this is to change the height and width of the hiking picture*/
+.hike{
+  height: 300px
+}
+.hike{
+  width: 300px
+}
+
+/*this is to change the height and width of the festival picture*/
+.festival{
+  height: 300px
+}
+.festival{
+  width: 300px
+}
+
+/*this is to change the height and width of the fetival video*/
+.festivalvid{
+  height: 400px
+}
+.festivalvid{
+  width: 400px
+}
+/*this is to change the positioning of the festival video to the right hand side of the page*/
+.festivalvid{
+  float: right;
+}
+
+/*this is to change the summer info to the right hand side of the page*/
+.summerinfo{
+  float: right;
+}
+/*this is to change the summer info text to white*/
+.summerinfo{
+  color: white
+}
+
+/*this is to change the colour of the text*/
+.summerdescription1{
+  color: white
+}
+/*this is to change the positioning of the text*/
+.summerdescription1{
+  float: right;
+}
+
+/*this is to change the colour of the text*/
+.summerdescription2{
+  color: white
+}
+/*this is to change the positioning of the text*/
+.summerdescription2{
+  float: left;
+}
+
+/*this is to change the colour of the festival text*/
+.festivaldescription{
+  color: white
+}
+
+/*this is to change the colour of the rain text*/
+.raininfo{
+  color: white
+}
+
+/*this is to change the positioning of the gif to the left*/
+.raingif{
+  float: left;
+}
+
+/*this is to change the colour of the text*/
+.aquariuminfo{
+  color: white
+}
+/*this is to change the position of the text*/
+.aquariuminfo{
+  float: left;
+}
+
+/*this is to change the width and height of the image*/
+.aquarium{
+  height: 450px
+}
+.aquarium{
+  width:450px
+}
+
+/*this is to change the colour of the text*/
+.bowlinggameinfo{
+  color: white
+}
+/*this is to change the position of the text*/
+.bowlinggameinfo{
+  float: left;
+}
+
+/*this is to change the height and width of the image*/
+.bowlinggame{
+  height: 500px
+}
+.bowlinggame{
+  width: 500px
+}
+
+/*this is to change the colour of the text*/
+.audiodescsum{
+  color: white
+}
+/*this is to change the position of the text*/
+.audiodescsum{
+  float: none;
+}
+
+/*this is to chaneg the colour of the text for the audio decription*/
+.audiodescaut{
+  color: white
+}
+
+/*this is to change the colour of the text for autumn*/
+.autuminfo{
+  color: white
+}
+/*this is to change the positioning of the text to the left*/
+.autuminfo{
+  float: left;
+}
+
+/*this si to change the height and width of the cinema image*/
+.cinema{
+  height: 300px
+}
+.cinema{
+  width: 300px
+}
+
+/*this is to change the height and width of the autumn walks image*/
+.autwalks{
+  height: 300px
+}
+.autwalks{
+  width: 300px
+}
+
+/*this is to chagne the height and width of the pumkin image*/
+.pumkinp{
+  height: 300px
+}
+.pumkinp{
+  width: 300px
+}
+
+/*this is to change the height and width of the tramploine image*/
+.tramppark{
+height: 300px
+}
+.tramppark{
+  width: 300px
+}
+
+/*this is to change the height and width of the fireworks vid*/
+.fireworksvid{
+  height: 500px
+}
+.fireworksvid{
+  width: 250px
+}
+
+/*this is to change the colour of the text*/
+.picsautinfo{
+  color: white
+}
+/*this is to change the position of the text*/
+.picsautinfo{
+  float: right;
+}
+
+/*this is to change the size of the image*/
+.driving{
+  height: 300px
+}
+.driving{
+  width: 300px
+}
+
+/*this is to change the height and width of the image*/
+.frozen{
+  height: 300px
+}
+.frozen{
+  width: 300px
+}
+
+/*this is to change the height and width of the image*/
+.gh{
+  height: 300px
+}
+.gh{
+  width: 300px
+}
+
+/*this is to change the height and width of the skating image*/
+.skating{
+  height: 300px
+}
+.skating{
+  width: 300px
+}
+
+/*this is to change the height and width of the image*/
+.RS{
+  width: 300px
+}
+.RS{
+  height: 300px
+}
+
+/*this is to chaneg the height and width of the image*/
+.m{
+  width: 300px
+}
+.m{
+  height: 300px
+}
+
+/*this is to change the hight and width of the image*/
+.hw{
+  width: 300px
+}
+.hw{
+  height: 500px
+}
+
+/*this is to change the colour of the text*/
+.audiodeswin{
+  color: white
+}
+
+/*this is to chagne the colour of the text*/
+.winterinfo{
+  color: white
+}
+/*this is to change the position of the text*/
+.winterinfo{
+  float: right;
+}
+
+/*this is to change the colour of the text*/
+.picdeswin{
+  color: white
+}
+
+/*this is to change the height and width of the boat image*/
+.boat{
+  height: 300px
+}
+.boat{
+  width: 300px
+}
+/*this is to chaneg the positioning of the boat image*/
+.boat{
+  float: right;
+}
+
+/*this is to change the size of the mini golf image*/
+.golf{
+height: 300px
+}
+.golf{
+  width: 300px
+}
+/*this is to change the position of the image to the right*/
+.golf{
+  float: right;
+}
+
+/*this is to change the size of the ice cream image*/
+.IC{
+height: 300px
+}
+.IC{
+  width: 300px
+}
+/*this is to change the positioning of the ice cream image*/
+.IC{
+  float: right;
+}
+
+/*this is to change the height and width of the walk image*/
+.walks{
+height: 300px
+}
+.walks{
+  width: 300px
+}
+/*this is to change the position of the image*/
+.walks{
+  float: right;
+}
+
+/*this is to change the height and width of the image*/
+.flow{
+  height: 300px
+}
+.flow{
+  width: 300px
+}
+/*this is to change the positioning of the flower image*/
+.flow{
+  float: right;
+}
+
+/*this is to change the size of the bike image*/
+.bikes{
+  height: 300px
+}
+.bikes{
+  width: 300px
+}
+/*this is to change the positioning of the image*/
+.bikes{
+  float: right;
+}
+
+/*this is to change the height and width of the video*/
+.zoo{
+  width: 600px
+}
+.zoo{
+  height: 300px
+}
+/*this is to change the positioning of the video*/
+.zoo{
+  float: right;
+}
+
+/*this is to change the colour of the text*/
+.auddessp{
+  color: white
+}
+
+/*this is to chaneg the colour of the text*/
+.springinfo{
+  color: white
+}
+
+/*this is to change the colour of the text*/
+.sprpicdes{
+  color: white
+}
+.sprpicdes{
+  float: left;
+}
+
+/*this is to change the text colour*/
+.contactsinfo1{
+  color: white
+}
+
+/*this is to change the colour of the text*/
+.contactsinfo2{
+  color: white
+}
+/*this is to change the position of the text*/
+.contactsinfo2{
+  float: left;
+}
+
+/*this is to change the height and width of the picture*/
+.me{
+  height: 300px
+}
+.me{
+  width: 400px
+}
+/*this is to change the position of the image*/
+.me{
+  float: right;
+}
